@@ -1,0 +1,58 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Aurora
+  m_Shader: {fileID: -6465566751694194690, guid: 39c5db730a23ce24b86f0ecd7ad57b00, type: 3}
+  m_ShaderKeywords: 
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - unity_Lightmaps:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - unity_LightmapsInd:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - unity_ShadowMasks:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - Vector1_115ddf8f662c4b6ca109bf8d6e248f95: 7
+    - Vector1_23c33b6e638c4e2bb2c984773520e327: 0.23
+    - Vector1_2bc336c05540455f8b3f0d440b48ea6b: 0.44
+    - Vector1_2fc053835e3c46999ef52d76a73e7ee9: 8
+    - Vector1_4911e3b34e4146dd96a8af21ff732e96: 0.5
+    - Vector1_4abd5495a69f41829e32756a9047381e: 1
+    - Vector1_4d65e069cf7046e487cf529576c07c2c: 20.85
+    - Vector1_9b9466dedfc24645bba27b00c8e8b391: 0.1
+    - Vector1_9cdb135278c8469fbff0764ecc9c90a5: 7
+    - Vector1_ce9b9bbff836461bbeebd418a16cebcc: 1
+    - Vector1_d575586f170c479aafbf7037d05f2930: 0.84
+    - Vector1_d8f100d5dbb141b0a1ad83560b621e41: 1.3
+    - Vector1_e6aa0f4ca88c44b99f31f02e015fbaaf: 0.35
+    - Vector1_e89af3fe6c7a4a56822014fb3a20aaed: 0.26
+    - Vector1_ffe842ba238c4f94a731471093f41364: 1.5
+    m_Colors:
+    - Color_047553ba416c4076a7c3de16492a776d: {r: 0.61787206, g: 1.5045699, b: 2.2201505, a: 1}
+    - Color_90771c4c9c5542efbb3ff21aa0ca56f8: {r: 2.9960785, g: 0.47058824, b: 0.47058824, a: 1}
+    - Color_a8a7e308c41048cc96e14e2c76938812: {r: 0, g: 0, b: 0, a: 1}
+    - Color_a8a7e308c41048cc96e14e2c76938812_1: {r: 0.2665094, g: 0.43239573, b: 0.5, a: 1}
+    - Color_a8a7e308c41048cc96e14e2c76938812_2: {r: 0, g: 0, b: 0, a: 1}
+    - Color_cc92f6b396b44028819c0ddfca444663: {r: 0.079541385, g: 0.07422569, b: 0.11320752, a: 0}
+    - Color_d404b1378b074c708c04cdebbb8eb0bc: {r: 0, g: 1, b: 0.101960786, a: 0}
+  m_BuildTextureStacks: []
